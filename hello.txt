@@ -5,6 +5,3 @@ test 2
 Edit by hotfix
 
 Edit by master
-
-Edit at GitHub
-
